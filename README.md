@@ -1,1 +1,8 @@
-# mortal-kombat
+# Mortal Kombat - премьера фильма 2021
+## Выполнил проект - Козырев Пётр
+### При создании проекта использовались технологии:
+- HTML
+- CSS
+- Normalize
+- Fancybox
+- Jquery
